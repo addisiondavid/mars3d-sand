@@ -1,0 +1,110 @@
+{
+  "map3d": {
+    "scene": {
+      "center": {"lat": 42.2, "lng": 107.7, "alt": 6000000, "heading": 359.2, "pitch": -90 },
+      "scene3DOnly": false,
+      "shadows": false,
+      "removeDblClick": true,
+      "sceneMode": 3,
+      "showSun": true,
+      "showMoon": true,
+      "showSkyBox": true,
+      "showSkyAtmosphere": true,
+      "fog": true,
+      "fxaa": true,
+      "requestRenderMode": true,
+      "globe": {
+        "depthTestAgainstTerrain": false,
+        "baseColor": "#546a53",
+        "showGroundAtmosphere": true,
+        "enableLighting": false
+      },
+      "cameraController": {
+        "zoomFactor": 3.0,
+        "minimumZoomDistance": 1,
+        "maximumZoomDistance": 7600000,
+        "enableRotate": true,
+        "enableTranslate": true,
+        "enableTilt": true,
+        "enableZoom": true,
+        "enableCollisionDetection": true,
+        "minimumCollisionTerrainHeight": 15000
+      }
+    },
+    "control": {
+      "homeButton": true,
+      "baseLayerPicker": true,
+      "sceneModePicker": false,
+      "vrButton": false,
+      "fullscreenButton": false,
+      "navigationHelpButton": false,
+      "animation": false,
+      "timeline": true,
+      "infoBox": false,
+      "geocoder": false,
+      "selectionIndicator": false,
+      "contextmenu": { "hasDefault": false },
+      "mouseDownView": true,
+      "zoom": { "insertIndex": 1 },
+      "compass": { "bottom": "260px", "left": "410px" },
+      "distanceLegend": { "left": "100px", "bottom": "2px" },
+      "locationBar": {
+        "fps": false,
+        "crs": "CGCS2000_GK_Zone_3",
+        "crsDecimal": 0,
+        "template": "<div>经度:{lng}</div> <div>纬度:{lat}</div> <div>海拔：{alt}米</div> <div class='hide700'>层级：{level}</div><div>方向：{heading}°</div> <div>俯仰角：{pitch}°</div><div class='hide700'>视高：{cameraHeight}米</div>"
+      }
+    },
+    "basemaps": [
+      { "id": 10, "name": "地图底图", "type": "group" },
+      {
+        "id": 2023,
+        "pid": 10,
+        "name": "彩色",
+        "icon": "img/basemaps/bd-c-midnight.png",
+        "type": "image",
+        "url": "map/globa_color.jpg"
+      },
+      {
+        "id": 2024,
+        "pid": 10,
+        "name": "蓝色",
+        "icon": "img/basemaps/bd-c-midnight.png",
+        "type": "image",
+        "url": "map/globa_blue.jpg"
+      },
+      {
+        "id": 2021,
+        "pid": 10,
+        "name": "天地图影像",
+        "icon": "img/basemaps/tdt_img.png",
+        "type": "xyz",
+        "url": "map/img_w/{z}/{x}/{y}.png",
+        "maximumLevel": 7,
+        "show": true
+
+      },
+      {
+        "id": 2024,
+        "pid": 10,
+        "name": "蓝色",
+        "icon": "img/basemaps/bd-c-midnight.png",
+        "type": "image",
+        "url": "map/bkg_img.jpg"
+      },
+      {
+        "pid":10,
+        "name": "天地图电子",
+        "type": "group",
+        "icon": "img/basemaps/tdt_vec.png",
+        "layers": [
+          {"name": "底图", "type": "tdt", "layer": "vec_d" },
+          {"name": "注记", "type": "tdt", "layer": "vec_z" }
+        ]
+
+      }
+
+    ],
+    "layers": []
+  }
+}

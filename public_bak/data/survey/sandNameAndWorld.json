@@ -1,0 +1,404 @@
+{
+  "type": "FeatureCollection",
+  "layer": {
+    "id": "M-C91E06B6-AF6F-4DB3-8237-1F036F8F89C9",
+    "name": ""
+  },
+  "features": [{
+    "type": "Feature",
+    "properties": {
+      "name": "文字",
+      "type": "label",
+      "group": "",
+      "id": "01",
+      "style": {
+        "text": "古尔班通古特",
+        "color": "#00FFFF",
+        "font_size": 16,
+        "font_family": "楷体",
+        "font_weight": "normal",
+        "font_style": "normal",
+        "opacity": 1,
+        "materialType": "Color"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [87.314081, 45.004389, 1173.5]
+    }
+  },{
+    "type": "Feature",
+    "properties": {
+      "name": "文字",
+      "type": "label",
+      "group": "",
+      "id": "02",
+      "style": {
+        "text": "塔克拉玛干",
+        "color": "#00FFFF",
+        "font_size": 20,
+        "font_family": "楷体",
+        "font_weight": "normal",
+        "font_style": "normal",
+        "opacity": 1,
+        "materialType": "Color"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [82.314081, 39.004389, 1173.5]
+    }
+  },{
+    "type": "Feature",
+    "properties": {
+      "name": "文字",
+      "type": "label",
+      "group": "",
+      "id": "03",
+      "style": {
+        "text": "新疆东部",
+        "color": "#00FFFF",
+        "font_size": 16,
+        "font_family": "楷体",
+        "font_weight": "normal",
+        "font_style": "normal",
+        "opacity": 1,
+        "materialType": "Color"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [92.314081, 42.004389, 1173.5]
+    }
+  },{
+    "type": "Feature",
+    "properties": {
+      "name": "文字",
+      "type": "label",
+      "group": "",
+      "id": "04",
+      "style": {
+        "text": "库木塔格",
+        "color": "#00FFFF",
+        "font_size": 16,
+        "font_family": "楷体",
+        "font_weight": "normal",
+        "font_style": "normal",
+        "opacity": 1,
+        "materialType": "Color"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [92.314081, 40.004389, 1173.5]
+    }
+  },{
+    "type": "Feature",
+    "properties": {
+      "name": "文字",
+      "type": "label",
+      "group": "",
+      "id": "05",
+      "style": {
+        "text": "柴达木",
+        "color": "#00FFFF",
+        "font_size": 16,
+        "font_family": "楷体",
+        "font_weight": "normal",
+        "font_style": "normal",
+        "opacity": 1,
+        "materialType": "Color"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [94.314081, 37.604389, 1173.5]
+    }
+  },{
+    "type": "Feature",
+    "properties": {
+      "name": "文字",
+      "type": "label",
+      "group": "",
+      "id": "06",
+      "style": {
+        "text": "甘肃西部",
+        "color": "#FF00FF",
+        "font_size": 16,
+        "font_family": "楷体",
+        "font_weight": "normal",
+        "font_style": "normal",
+        "opacity": 1,
+        "materialType": "Color"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [96.314081, 40.604389, 1173.5]
+    }
+  },{
+    "type": "Feature",
+    "properties": {
+      "name": "文字",
+      "type": "label",
+      "group": "",
+      "id": "07",
+      "style": {
+        "text": "阿拉善西部",
+        "color": "#FF00FF",
+        "font_size": 16,
+        "font_family": "楷体",
+        "font_weight": "normal",
+        "font_style": "normal",
+        "opacity": 1,
+        "materialType": "Color"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [99.314081, 41.604389, 1173.5]
+    }
+  },{
+    "type": "Feature",
+    "properties": {
+      "name": "文字",
+      "type": "label",
+      "group": "bdjl",
+      "id": "08",
+      "style": {
+        "text": "巴丹古林",
+        "color": "#FF00FF",
+        "font_size": 14,
+        "font_family": "楷体",
+        "font_weight": "normal",
+        "font_style": "normal",
+        "opacity": 1,
+        "materialType": "Color"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [102.314081, 41.004389, 1173.5]
+    }
+  },{
+    "type": "Feature",
+    "properties": {
+      "name": "文字",
+      "type": "label",
+      "group": "wlbh",
+      "id": "09",
+      "style": {
+        "text": "乌兰布和",
+        "color": "#FFFF00",
+        "font_size": 14,
+        "font_family": "楷体",
+        "font_weight": "normal",
+        "font_style": "normal",
+        "opacity": 1,
+        "materialType": "Color"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [106.514081, 39.104389, 1173.5]
+    }
+  },{
+    "type": "Feature",
+    "properties": {
+      "name": "文字",
+      "type": "label",
+      "group": "tgl",
+      "id": "10",
+      "style": {
+        "text": "腾格里",
+        "color": "#FF00FF",
+        "font_size": 14,
+        "font_family": "楷体",
+        "font_weight": "normal",
+        "font_style": "normal",
+        "opacity": 1,
+        "materialType": "Color"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [104.514081, 38.304389, 1173.5]
+    }
+  },{
+    "type": "Feature",
+    "properties": {
+      "name": "文字",
+      "type": "label",
+      "group": "mws",
+      "id": "11",
+      "style": {
+        "text": "毛乌素",
+        "color": "#FFFF00",
+        "font_size": 14,
+        "font_family": "楷体",
+        "font_weight": "normal",
+        "font_style": "normal",
+        "opacity": 1,
+        "materialType": "Color"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [109.014081, 39.004389, 1173.5]
+    }
+  },{
+    "type": "Feature",
+    "properties": {
+      "name": "文字",
+      "type": "label",
+      "group": "kbq",
+      "id": "12",
+      "style": {
+        "text": "库不齐",
+        "color": "#FFFF00",
+        "font_size": 14,
+        "font_family": "楷体",
+        "font_weight": "normal",
+        "font_style": "normal",
+        "opacity": 1,
+        "materialType": "Color"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [110.014081, 40.504389, 1173.5]
+    }
+  },{
+    "type": "Feature",
+    "properties": {
+      "name": "文字",
+      "type": "label",
+      "group": "kbq",
+      "id": "13",
+      "style": {
+        "text": "内蒙古中部",
+        "color": "#1E90FF",
+        "font_size": 14,
+        "font_family": "楷体",
+        "font_weight": "normal",
+        "font_style": "normal",
+        "opacity": 1,
+        "materialType": "Color"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.014081, 42.004389, 1173.5]
+    }
+  },{
+    "type": "Feature",
+    "properties": {
+      "name": "文字",
+      "type": "label",
+      "group": "hsdk",
+      "id": "14",
+      "style": {
+        "text": "浑善达克",
+        "color": "#1E90FF",
+        "font_size": 14,
+        "font_family": "楷体",
+        "font_weight": "normal",
+        "font_style": "normal",
+        "opacity": 1,
+        "materialType": "Color"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [116.014081, 43.004389, 1173.5]
+    }
+  },{
+    "type": "Feature",
+    "properties": {
+      "name": "文字",
+      "type": "label",
+      "group": "keq",
+      "id": "15",
+      "style": {
+        "text": "科尔沁",
+        "color": "#00FFFF",
+        "font_size": 14,
+        "font_family": "楷体",
+        "font_weight": "normal",
+        "font_style": "normal",
+        "opacity": 1,
+        "materialType": "Color"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [121.014081, 43.504389, 1173.5]
+    }
+  },{
+    "type": "Feature",
+    "properties": {
+      "name": "文字",
+      "type": "label",
+      "group": "",
+      "id": "16",
+      "style": {
+        "text": "呼伦贝尔",
+        "color": "#00FFFF",
+        "font_size": 14,
+        "font_family": "楷体",
+        "font_weight": "normal",
+        "font_style": "normal",
+        "opacity": 1,
+        "materialType": "Color"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [119.014081, 48.504389, 1173.5]
+    }
+  },{
+    "type": "Feature",
+    "properties": {
+      "name": "文字",
+      "type": "label",
+      "group": "",
+      "id": "17",
+      "style": {
+        "text": "蒙古东南部",
+        "color": "#FF0000",
+        "font_size": 14,
+        "font_family": "楷体",
+        "font_weight": "normal",
+        "font_style": "normal",
+        "opacity": 1,
+        "materialType": "Color"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [110.014081, 46.504389, 1173.5]
+    }
+  },{
+    "type": "Feature",
+    "properties": {
+      "name": "文字",
+      "type": "label",
+      "group": "",
+      "id": "18",
+      "style": {
+        "text": "蒙古西南部",
+        "color": "#FF00FF",
+        "font_size": 14,
+        "font_family": "楷体",
+        "font_weight": "normal",
+        "font_style": "normal",
+        "opacity": 1,
+        "materialType": "Color"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [102.014081, 44.504389, 1173.5]
+    }
+  }]
+}

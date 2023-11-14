@@ -1,0 +1,168 @@
+{
+    "type": "FeatureCollection",
+    "layer": {
+        "id": "m-87c33e22-5b1a-4b7a-b5b2-8621df7e5428"
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "",
+                "id": "m-48ab4518-e7a3-4f86-94f4-15fa45d2c5c5",
+                "type": "gatheringPlace",
+                "style": {
+                    "color": "#ff0000",
+                    "opacity": 0.6,
+                    "outline": true,
+                    "outlineWidth": 3,
+                    "outlineColor": "#ffffff",
+                    "clampToGround": true,
+                    "materialType": "Color"
+                },
+                "styleType": "polygon"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            115.762498,
+                            39.667501,
+                            -11732.8
+                        ],
+                        [
+                            106.878957,
+                            42.78483,
+                            995.1
+                        ],
+                        [
+                            117.810491,
+                            45.654779,
+                            9789.2
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "",
+                "id": "m-cf9326ce-123c-4186-96df-33148cd8780a",
+                "type": "gatheringPlace",
+                "style": {
+                    "color": "#ff0000",
+                    "opacity": 0.6,
+                    "outline": true,
+                    "outlineWidth": 3,
+                    "outlineColor": "#ffffff",
+                    "clampToGround": true,
+                    "materialType": "Color"
+                },
+                "styleType": "polygon"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            111.046284,
+                            38.284462,
+                            1188
+                        ],
+                        [
+                            114.613189,
+                            37.027248,
+                            -4981.5
+                        ],
+                        [
+                            115.867646,
+                            39.104373,
+                            -35.9
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "",
+                "id": "m-a28e5e42-5b85-4e45-a54c-9e5189d251f4",
+                "type": "gatheringPlace",
+                "style": {
+                    "color": "#ff0000",
+                    "opacity": 0.6,
+                    "outline": true,
+                    "outlineWidth": 3,
+                    "outlineColor": "#ffffff",
+                    "clampToGround": true,
+                    "materialType": "Color"
+                },
+                "styleType": "polygon"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            109.81245,
+                            39.514608,
+                            1350.2
+                        ],
+                        [
+                            107.57915,
+                            36.480129,
+                            1325.1
+                        ],
+                        [
+                            110.675031,
+                            36.450781,
+                            920.4
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "",
+                "id": "m-e4709cef-9358-4ca9-80ef-90065351f2af",
+                "type": "gatheringPlace",
+                "style": {
+                    "color": "#ff0000",
+                    "opacity": 0.6,
+                    "outline": true,
+                    "outlineWidth": 3,
+                    "outlineColor": "#ffffff",
+                    "clampToGround": true,
+                    "materialType": "Color"
+                },
+                "styleType": "polygon"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            106.695676,
+                            35.879582,
+                            835.3
+                        ],
+                        [
+                            92.064435,
+                            44.150667,
+                            1358.5
+                        ],
+                        [
+                            102.358466,
+                            45.419349,
+                            1431.5
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
+}

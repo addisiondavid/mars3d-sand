@@ -1,0 +1,58 @@
+{
+    "type": "FeatureCollection",
+    "layer": {
+        "id": "m-5f5f0efd-31a6-4e01-9ba0-6eac2e1dd708"
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "",
+                "id": "m-4078674d-c1f8-4d68-bd25-2f44ae0dffdb",
+                "type": "attackArrow",
+                "style": {
+                    "color": "#ff0000",
+                    "opacity": 0.6,
+                    "outline": true,
+                    "outlineWidth": 3,
+                    "outlineColor": "#ffffff",
+                    "clampToGround": true,
+                    "materialType": "Color"
+                },
+                "styleType": "polygon"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            102.78513,
+                            33.191397,
+                            13673.7
+                        ],
+                        [
+                            102.705583,
+                            34.375365,
+                            12865.9
+                        ],
+                        [
+                            114.365927,
+                            34.729757,
+                            3218.1
+                        ],
+                        [
+                            118.131966,
+                            36.337482,
+                            193.1
+                        ],
+                        [
+                            118.988552,
+                            37.369936,
+                            -34.4
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
+}

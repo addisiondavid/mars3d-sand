@@ -1,0 +1,27 @@
+[
+  {
+    "name": "快速开始",
+    "icon": "fa-globe",
+    "children": [
+      {
+        "name": "UI控件样板",
+        "details": "当前所有示例涉及的UI控件及交互演示",
+        "children": [
+          {
+            "name": "普通UI控件",
+            "thumbnail": "map-create-ui.jpg",
+            "main": "map",
+            "libs": ["mars3d","mars3d-wind","echarts"],
+            "hasPannel": true,
+            "pannelFiles": {
+              "react": [
+                { "name": "依赖1", "url": "{main}/dep1.tsx" },
+                { "name": "依赖2", "url": "{main}/dep2.tsx" }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

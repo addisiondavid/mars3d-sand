@@ -1,0 +1,367 @@
+{
+  "type": "FeatureCollection",
+  "layer": {
+    "id": "M-C91E06B6-AF6F-4DB3-8237-1F036F8F89C9",
+    "name": ""
+  },
+  "features": [{
+    "type": "Feature",
+    "properties": {
+      "id": "0001",
+      "name": "塔克拉玛干沙漠",
+      "area": "33 万平方公里",
+      "position": "位于南疆塔里木盆地中心",
+      "climate": "暖温带大陆性干旱气候",
+	  "climateInfo": "系暖温带干旱沙漠，酷暑最高温度达67.2℃，昼夜温差达40℃以上；平均年降水不超过100毫米，最低只有四五毫米；而平均蒸发量高达2500～3400毫米。",
+      "ecoGovernanceSize": "",
+      "phoGovernanceSize": "",
+      "type": "label",
+      "group": "tklmg",
+      "style": {
+        "text": "塔克拉玛干沙漠",
+        "color": "#ff009f",
+        "font_size": 24,
+        "font_family": "楷体",
+        "font_weight": "normal",
+        "font_style": "normal",
+        "visibleDepth": true, 
+        "opacity": 1,
+        "materialType": "Color"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [82.314081, 39.004389, 2000]
+    }
+  },{
+    "type": "Feature",
+    "properties": {
+      "name": "古尔班通古特沙漠",
+      "area": "4.88 万平方公里",
+      "position": "位于准噶尔盆地的中央",
+      "climate": "暖温带大陆性干旱气候",
+	  "climateInfo": "年降水量70～150毫米，冬季有积雪。降水春季和初夏略多，年中分配较均匀。沙漠内部绝大部分为固定和半固定沙丘，其面积占整个沙漠面积97%，形成中国面积最大的固定、半固定沙漠。",
+      "ecoGovernanceSize": "",
+      "phoGovernanceSize": "",
+      "type": "label",
+      "group": "gebtgt",
+      "id": "0002",
+      "style": {
+        "text": "古尔班通古特沙漠",
+        "color": "#ff009f",
+        "font_size": 24,
+        "font_family": "楷体",
+        "font_weight": "normal",
+        "font_style": "normal",
+        "opacity": 1,
+        "materialType": "Color"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [87.314081, 45.004389, 2000]
+    }
+  },{
+    "type": "Feature",
+    "properties": {
+      "name": "库木塔格沙漠",
+      "area": "22100 km²",
+      "position": "新疆南部东端",
+      "climate": "暖温带大陆性干旱气候",
+	  "climateInfo": "库木塔格沙漠静卧在中国海拔最低的盆地—吐鲁番盆地之中，区域内海拔一般高约500米，最高点尤热克塔格海拔只有681米。库木塔格大沙漠是世界上唯一与城市相连的沙漠，长年与绿洲友好相处，亲如近邻，创造了“沙不进、绿不退、人不迁”的世界奇迹。",
+      "ecoGovernanceSize": "",
+      "phoGovernanceSize": "",
+      "type": "label",
+      "group": "kmtg",
+      "id": "0003",
+      "style": {
+        "text": "库木塔格沙漠",
+        "color": "#ff009f",
+        "font_size": 24,
+        "font_family": "楷体",
+        "font_weight": "normal",
+        "font_style": "normal",
+        "opacity": 1,
+        "materialType": "Color"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [92.314081, 40.004389, 2000.5]
+    }
+  },{
+    "type": "Feature",
+    "properties": {
+      "name": "柴达木沙漠",
+      "area": "3.49 万平方公里",
+      "position": "青海西北部柴达木盆地",
+      "climate": "暖温带大陆性干旱气候",
+	  "climateInfo": "干旱程度由东向西增大，东部年降水量在50～170毫米，干燥度2.1～9.0；西部年降水量仅10～25毫米，干燥度在9.0～20.0。盆地中呈现出风蚀地、沙丘、戈壁、盐湖及盐土平原相互交错分布的景观。",
+      "ecoGovernanceSize": "",
+      "phoGovernanceSize": "",
+      "type": "label",
+      "group": "cdm",
+      "id": "0004",
+      "style": {
+        "text": "柴达木沙漠",
+        "color": "#ff009f",
+        "font_size": 24,
+        "font_family": "楷体",
+        "font_weight": "normal",
+        "font_style": "normal",
+        "opacity": 1,
+        "materialType": "Color"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [94.314081, 37.6, 2000.5]
+    }
+  },{
+    "type": "Feature",
+    "properties": {
+      "name": "巴丹吉林沙漠",
+      "area": "4.43 万平方公里",
+      "position": "内蒙古自治区阿拉善盟阿拉善右旗北部",
+      "climate": "大陆性气候",
+	  "climateInfo": "年降水量50～60毫米，年均温7～8℃，沙面温度达70～80℃。年均风速4米／秒，八级大风日为30天左右。",
+      "ecoGovernanceSize": "14,708.23平方公里",
+      "ecoGovernancePercentage":"22.7%",
+      "phoGovernanceSize": "1,465.7平方公里",
+      "phoGovernancePercentage":"2.26%",
+      "type": "label",
+      "group": "bdjl",
+      "group2": "bdjl_json",
+      "id": "0005",
+      "style": {
+        "text": "巴丹吉林沙漠",
+        "color": "#ff009f",
+        "font_size": 24,
+        "font_family": "楷体",
+        "font_weight": "normal",
+        "font_style": "normal",
+        "opacity": 1,
+        "materialType": "Color"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [102.314081, 40.004389, 2000.5]
+    }
+  },{
+    "type": "Feature",
+    "properties": {
+      "name": "腾格里沙漠",
+      "area": "4.3 万平方公里",
+      "position": "位于阿拉善左旗西南部和甘肃省中部边境",
+      "climate": "暖温带大陆性气候",
+	  "climateInfo": "气候终年为西风环流控制，降水稀少，年平均降水量102.9毫米，最大年降水量150.3毫米，最小年降水量33.3毫米,年均气温7.8℃，绝对最高气温39℃，绝对最低气温－29.6℃，年均蒸发量2258.8毫米，无霜期168天，光照3181小时，太阳辐射150千卡/平方厘米，大于10℃的有效积温3289.1℃，终年盛行西南风，主要害风为西北风，风势强烈。",
+      "ecoGovernanceSize": "14,708.23平方公里",
+      "ecoGovernancePercentage":"22.7%",
+      "phoGovernanceSize": "1,465.7平方公里",
+      "phoGovernancePercentage":"2.26%",
+      "type": "label",
+      "group": "tgl",
+      "group2": "tgl_json",
+      "id": "0006",
+      "style": {
+        "text": "腾格里沙漠",
+        "color": "#ff009f",
+        "font_size": 24,
+        "font_family": "楷体",
+        "font_weight": "normal",
+        "font_style": "normal",
+        "opacity": 1,
+        "materialType": "Color"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [104.514081, 38.304389, 2000.5]
+    }
+  },{
+    "type": "Feature",
+    "properties": {
+      "name": "乌兰布和沙漠",
+      "area": "约1万平方公里",
+      "position": "位于内蒙古自治区西部",
+      "climate": "暖温带干旱气候",
+	  "climateInfo": "气候终年为西风环流控制，属中温带典型的大陆性气候，降水稀少，年平均降水量102.9毫米，最大年降水量150.3毫米，最小年水降水量公33.3毫米,年均气温7.8℃，绝对最高气温39℃，绝对最低气温－29.6℃，年均蒸发量2258.8毫米，无霜期168天，光照3181小时，太阳辐射150千卡/平方厘米，大于10℃的有效积温3289.1℃，终年盛行西南风，主要害风为西北风，风势强烈，年均风速4.1m/s",
+      "ecoGovernanceSize": "14,708.23平方公里",
+      "ecoGovernancePercentage":"22.7%",
+      "phoGovernanceSize": "1,465.7平方公里",
+      "phoGovernancePercentage":"2.26%",
+      "type": "label",
+      "group": "wlbh",
+      "group2": "wlbh_json",
+      "id": "0007",
+      "style": {
+        "text": "乌兰布和沙漠",
+        "color": "#ff009f",
+        "font_size": 24,
+        "font_family": "楷体",
+        "font_weight": "normal",
+        "font_style": "normal",
+        "opacity": 1,
+        "materialType": "Color"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [106.514081, 39.804389, 2000.5]
+    }
+  },{
+    "type": "Feature",
+    "properties": {
+      "name": "库不齐沙漠",
+      "area": "1.39 万平方公里",
+      "position": "内蒙古鄂尔多斯高原北部",
+      "climate": "暖温带大陆性干旱气候",
+	  "climateInfo": "年降水量70～150毫米，冬季有积雪。降水春季和初夏略多，年中分配较均匀。沙漠内部绝大部分为固定和半固定沙丘，其面积占整个沙漠面积97%，形成中国面积最大的固定、半固定沙漠。",
+      "ecoGovernanceSize": "14,708.23平方公里",
+      "ecoGovernancePercentage":"22.7%",
+      "phoGovernanceSize": "1,465.7平方公里",
+      "phoGovernancePercentage":"2.26%",
+      "type": "label",
+      "group": "kbq",
+      "group2": "kbq_json",
+      "id": "0008",
+      "style": {
+        "text": "库不齐沙漠",
+        "color": "#ff009f",
+        "font_size": 24,
+        "font_family": "楷体",
+        "font_weight": "normal",
+        "font_style": "normal",
+        "opacity": 1,
+        "materialType": "Color"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [109.014081, 40.104389, 2000.5]
+    }
+  },{
+    "type": "Feature",
+    "properties": {
+      "name": "毛乌素沙地",
+      "area": "4.22 万平方公里",
+      "position": "位于陕西省榆林市长城一线以北",
+      "climate": "暖温带大陆性气候",
+	  "climateInfo": "沙区年均温6.0-8.5℃，1月均温-9.5-12℃，7月均温22-24℃，年降水量250-440毫米，集中于7-9月，占全年降水60-75%，尤以8月为多。降水年际变率大，多雨年为少雨年2-4倍，常发生旱灾和涝灾，且旱多于涝。夏季常降暴雨，又多雹灾，最大日降水量可达100-200毫米。沙地东部年降水量达400-440毫米，西北部降水量为250-300毫米，属棕钙土半荒漠地带。",
+      "ecoGovernanceSize": "14,708.23平方公里",
+      "ecoGovernancePercentage":"22.7%",
+      "phoGovernanceSize": "1,465.7平方公里",
+      "phoGovernancePercentage":"2.26%",
+      "type": "label",
+      "group": "mws_json",
+      "group2":"mws_json",
+      "id": "0009",
+      "style": {
+        "text": "毛乌素沙地",
+        "color": "#0000FF",
+        "font_size": 24,
+        "font_family": "楷体",
+        "font_weight": "normal",
+        "font_style": "normal",
+        "opacity": 1,
+        "materialType": "Color"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [109.014081, 39.004389, 2000.5]
+    }
+  },{
+    "type": "Feature",
+    "properties": {
+      "name": "浑善达克沙地",
+      "area": "5.2 万平方公里",
+      "position": "位于锡林郭勒草原南端",
+      "climate": "暖温带大陆性气候",
+	  "climateInfo": "浑善达克沙地气候温和，年平均气温为1.5℃，一月份平均气温-18.3℃，七月份平均气温18.7℃，极端最高温度35.9℃，极端最低气温-36.6℃，夏季凉爽宜人，是避暑的好地方。全年降雨量为365.1毫米，而且主要集中在7、8、9月份，约占全年降雨量的80%-90%。全年的无霜期104天，冬天有180天的冰雪期。",
+      "ecoGovernanceSize": "19,516平方公里",
+      "ecoGovernancePercentage":"41.52%",
+      "phoGovernanceSize": "437.63平方公里",
+      "phoGovernancePercentage":"0.93%",
+      "type": "label",
+      "group": "hsdk",
+      "group2":"hsdk_json",
+      "id": "0010",
+      "style": {
+        "text": "浑善达克沙地",
+        "color": "#0000FF",
+        "font_size": 24,
+        "font_family": "楷体",
+        "font_weight": "normal",
+        "font_style": "normal",
+        "opacity": 1,
+        "materialType": "Color"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [116.014081, 43.004389, 2000.5]
+    }
+  },{
+    "type": "Feature",
+    "properties": {
+      "name": "呼伦贝尔沙地",
+      "area": "约1 万平方公里",
+      "position": "位于呼伦贝尔高原",
+      "climate": "暖温带大陆性半干旱气候",
+	  "climateInfo": "呼伦贝尔沙地的气候具有半湿润、半干旱的过渡特点，沙地境内的河流、湖泊、沼泽较多，水分条件优越，年平均气温较低，年降水量多集中于夏秋季。沙地土壤中含沙量较大，一般多为中、细沙。风沙土主要分布在沙带及其外围的沙质平原上，在固定的风沙土中，发育着有机质含量较高的黑沙土。",
+      "ecoGovernanceSize": "",
+      "phoGovernanceSize": "",
+      "type": "label",
+      "group": "hlbe_json",
+      "group2":"hlbe_json",
+      "id": "0011",
+      "style": {
+        "text": "呼伦贝尔沙地",
+        "color": "#0000FF",
+        "font_size": 24,
+        "font_family": "楷体",
+        "font_weight": "normal",
+        "font_style": "normal",
+        "opacity": 1,
+        "materialType": "Color"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [119.014081, 48.504389, 2000.5]
+    }
+  },{
+    "type": "Feature",
+    "properties": {
+      "name": "科尔沁沙地",
+      "area": "3.51 万平方公里",
+      "position": "地处西辽河平原",
+      "climate": "暖温带大陆性半干旱气候",
+	  "climateInfo": "科尔沁沙地主体位于半干旱区，平均降水量可达300—400mm。降水量多集中于7—9三个月，约占全年降水量的70%—80%。沙地东南部临近半湿润区，降水量相对更高。受蒙古冷高压和太平洋暖低压消长变化影响，当地冬春季以西北风和偏北风为主，夏季以东南风为主。",
+      "ecoGovernanceSize": "11,085.6平方公里",
+      "ecoGovernancePercentage":"21.2%",
+      "phoGovernanceSize": "1,509.4平方公里",
+      "phoGovernancePercentage":"2.9%",
+      "type": "label",
+      "group": "keq_json",
+      "group2":"keq_json",
+      "id": "0012",
+      "style": {
+        "text": "科尔沁沙地",
+        "color": "#1E90FF",
+        "font_size": 24,
+        "font_family": "楷体",
+        "font_weight": "normal",
+        "font_style": "normal",
+        "opacity": 1,
+        "materialType": "Color"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [121.014081, 43.504389, 2000.5]
+    }
+  }]
+}
